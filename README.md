@@ -15,3 +15,5 @@ CSS3 – Estilização e layout
 JavaScript – Interatividade e dinamismo
 
 GitHub Pages – Hospedagem do site
+
+Integrantes: Isabela Barbosa Pereira (20231064010012) Ivanaldo do Nascimento Filho (20231064010018) Maria Eduarda Vieira de Sousa (20231064010026)
